@@ -16,4 +16,6 @@ Además, la inclusión de datos de volumen de negociación proporciona un contex
 
 El conjunto de datos de precios históricos de Bitcoin es un recurso invaluable para la investigación basada en datos, el análisis cuantitativo, las estrategias comerciales de backtesting y la creación de modelos predictivos. Sirve como base para estudiar el desempeño histórico de Bitcoin, comprender el mercado de criptomonedas y tomar decisiones informadas en el mundo en constante evolución de las criptomonedas.
 
-KAGGLE: https://www.kaggle.com/datasets/prkhrawsthi/bitcoin-usd-daily-price-with-volume-2015-2023
+KAGGLE: https://www.kaggle.com/datasets/prkhrawsthi/bitcoin-usd-daily-price-with-volume-2015-2023<br>
+Visualizar Notebook: https://nbviewer.org/github/ovecats/Precio_Bitcoin_USD_2023/blob/main/BTC_USD.ipynb
+

@@ -1,5 +1,5 @@
 
-![btc](https://masterthecrypto.com/wp-content/uploads/2019/10/Bitcoin-news-logo-techno.jpg)
+  ![btc](https://d4-invdn-com.akamaized.net/content/c464832cc737e96347e2cfc34b8f98b7.jpeg)
 # Precio_Bitcoin_USD_2023
 Seguimiento del aumento de precios: precio diario en USD de Bitcoin con volumen (2015-2023)
 
